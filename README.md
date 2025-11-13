@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the NFT Preview Card](../NFT-CARD-PREVIEW-JESUS/images/0282508d-8b30-4d3d-be06-983c0f71bf38.png)
+![Screenshot of the NFT Preview Card](images/0282508d-8b30-4d3d-be06-983c0f71bf38.png)
 
 ### Links
 
