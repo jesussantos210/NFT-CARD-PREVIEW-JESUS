@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- **Repository URL:** [Paste your GitHub URL here]
+- **Repository URL:** [[GitHub](https://github.com/jesussantos210/NFT-CARD-PREVIEW-JESUS)]
 - **Live Site URL:** [Paste your GitHub Pages URL here]
 
 ## My process
