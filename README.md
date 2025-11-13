@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - **Repository URL:** [[GitHub](https://github.com/jesussantos210/NFT-CARD-PREVIEW-JESUS)]
-- **Live Site URL:** [Paste your GitHub Pages URL here]
+- **Live Site URL:** [GitHub Pages](https://jesussantos210.github.io/NFT-CARD-PREVIEW-JESUS/)
 
 ## My process
 
